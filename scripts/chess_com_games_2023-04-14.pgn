@@ -1,0 +1,956 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.09"]
+[Round "-"]
+[White "Covwest"]
+[Black "Jasonboydce"]
+[Result "1-0"]
+[WhiteElo "786"]
+[BlackElo "750"]
+[TimeControl "300+5"]
+[EndTime "16:43:19 PDT"]
+[Termination "Covwest won by checkmate"]
+
+1. e4 e5 2. Bb5 Bc5 3. Nf3 a6 4. Ba4 Qe7 5. d3 Nc6 6. Nc3 Nf6 7. h3 Nd4 8. Bg5
+b5 9. Bb3 h6 10. Bh4 a5 11. a3 c6 12. Bg3 a4 13. Ba2 Nxf3+ 14. Qxf3 d6 15. O-O-O
+Bxa3 16. bxa3 d5 17. exd5 Qxa3+ 18. Kb1 Qxc3 19. dxc6 Qb4+ 20. Ka1 Qd4+ 21. Kb1
+Nd5 22. Bxd5 a3 23. Kc1 a2 24. Qxf7+ Kd8 25. Kd2 a1=Q 26. c7# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.09"]
+[Round "-"]
+[White "Jasonboydce"]
+[Black "ibarany"]
+[Result "0-1"]
+[WhiteElo "743"]
+[BlackElo "796"]
+[TimeControl "300+5"]
+[EndTime "17:47:43 PDT"]
+[Termination "ibarany won by resignation"]
+
+1. Nf3 d6 2. e4 Nf6 3. Bc4 Nxe4 4. d3 Nf6 5. Ng5 e6 6. Nc3 d5 7. Bb3 Nc6 8. Qe2
+h6 9. Nf3 Bc5 10. Ne5 Nxe5 11. Qxe5 Bd6 12. Qe2 O-O 13. Bxh6 gxh6 14. O-O-O Nh7
+15. Qg4+ Kh8 16. Qd4+ Qf6 17. Qxf6+ Nxf6 18. Rdg1 Ng4 19. Nd1 b6 20. g3 Bb7 21.
+Re1 d4 22. Rhg1 Nxh2 23. Re2 Bf3 24. Rxe6 fxe6 25. Bxe6 Bxd1 26. Kxd1 Rae8 27.
+Bd5 Rxf2 28. Rh1 Ng4 29. Bc6 Ree2 30. Re1 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.09"]
+[Round "-"]
+[White "Jasonboydce"]
+[Black "RobertFischerJr"]
+[Result "0-1"]
+[WhiteElo "735"]
+[BlackElo "747"]
+[TimeControl "300+5"]
+[EndTime "19:25:19 PDT"]
+[Termination "RobertFischerJr won by resignation"]
+
+1. Nf3 Nf6 2. d3 d5 3. e4 Ng4 4. h3 Nxf2 5. Kxf2 e6 6. Ng5 Bc5+ 7. Be3 Bxe3+ 8.
+Kxe3 Qxg5+ 9. Kf2 Nc6 10. a3 Qf4+ 11. Qf3 Qxf3+ 12. gxf3 Nd4 13. Nc3 Nxc2 14.
+Rc1 Nd4 15. Ke3 c5 16. Rg1 O-O 17. h4 dxe4 18. Nxe4 Bd7 19. Nxc5 Nf5+ 20. Kf4
+Bc6 21. h5 Rad8 22. Bh3 Rd4+ 23. Ke5 Rfd8 24. Nd7 R8xd7 25. Rc5 b6 26. Rgc1 bxc5
+27. Rxc5 R7d5+ 28. Rxd5 Rxd5+ 29. Ke4 Rb5+ 30. Kf4 Rxb2 31. Bxf5 exf5 32. Kxf5
+Bxf3 33. d4 Bxh5 34. d5 g6+ 35. Ke5 Bg4 36. d6 Ra2 37. Kf6 Rxa3 38. Ke7 h5 39.
+d7 Bxd7 40. Kxd7 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.09"]
+[Round "-"]
+[White "milan8493"]
+[Black "Jasonboydce"]
+[Result "1-0"]
+[WhiteElo "778"]
+[BlackElo "728"]
+[TimeControl "300+5"]
+[EndTime "20:55:14 PDT"]
+[Termination "milan8493 won by checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Bc4 h6 5. d3 Nf6 6. Qe2 Ng4 7. O-O d6 8. h3
+Nxf2 9. Rxf2 Bxf2+ 10. Kxf2 Qf6 11. Be3 Be6 12. Bb3 Nd4 13. Qd1 Nxf3 14. Qxf3
+Qxf3+ 15. Kxf3 Bxh3 16. gxh3 O-O-O 17. Rf1 Rhf8 18. Ke2 g5 19. Kd1 h5 20. Rxf7
+Rxf7 21. Bxf7 Rf8 22. Bxh5 Rf1+ 23. Kd2 Rh1 24. Bg4+ Kd8 25. Bxg5+ Ke8 26. Nd5
+c6 27. Nc7+ Kf7 28. Ne6 Kg6 29. h4 Rg1 30. Bf5+ Kh5 31. Ng7# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.09"]
+[Round "-"]
+[White "N00bKefka"]
+[Black "Jasonboydce"]
+[Result "0-1"]
+[WhiteElo "679"]
+[BlackElo "735"]
+[TimeControl "300+5"]
+[EndTime "20:58:54 PDT"]
+[Termination "Jasonboydce won by resignation"]
+
+1. d4 d5 2. c4 e5 3. e3 exd4 4. Qxd4 Nf6 5. Nc3 Nc6 6. Qf4 Bd6 7. Qf3 Bg4 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.10"]
+[Round "-"]
+[White "fabwald"]
+[Black "Jasonboydce"]
+[Result "0-1"]
+[WhiteElo "784"]
+[BlackElo "744"]
+[TimeControl "300+5"]
+[EndTime "8:54:10 PDT"]
+[Termination "Jasonboydce won by checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. d3 Nf6 5. h3 d6 6. Be2 Be6 7. O-O Nd4 8. a3
+Qd7 9. b4 Nxf3+ 10. Bxf3 Bd4 11. Bd2 O-O-O 12. Kh2 g6 13. Re1 Nh5 14. Rb1 Nf4
+15. Bg4 Bxf2 16. Rf1 Bd4 17. Bxe6 Qxe6 18. Nd5 Nxd5 19. exd5 Qxd5 20. c4 Qe6 21.
+Bg5 Rde8 22. Qe2 e4 23. Rbd1 Qe5+ 24. Kh1 Qxg5 25. dxe4 Qe5 26. Rfe1 Bc3 27.
+Qg4+ f5 28. exf5 Qxf5 29. Rf1 Qxg4 30. hxg4 h5 31. gxh5 Rxh5+ 32. Kg1 b6 33. Rf7
+Be5 34. Rd3 Bh2+ 35. Kf1 Rf5+ 36. Rxf5 gxf5 37. Rh3 Be5 38. Rh5 Rf8 39. Rh7 Bb2
+40. a4 Ba3 41. b5 Bc5 42. Ke2 f4 43. Kf3 Be3 44. Ke4 Re8+ 45. Kd5 Kb7 46. Rg7
+Re5# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.10"]
+[Round "-"]
+[White "Jasonboydce"]
+[Black "TomassenB"]
+[Result "1-0"]
+[WhiteElo "754"]
+[BlackElo "821"]
+[TimeControl "300+5"]
+[EndTime "12:15:21 PDT"]
+[Termination "Jasonboydce won by resignation"]
+
+1. Nf3 d5 2. e4 dxe4 3. Ng5 Nf6 4. d3 exd3 5. Bxd3 e6 6. Nc3 Be7 7. O-O h6 8.
+Nge4 Nxe4 9. Nxe4 O-O 10. Qg4 e5 11. Qg3 Nc6 12. Bxh6 g6 13. Bxf8 Bxf8 14. Rad1
+Qe7 15. Ng5 Bh6 16. Nxf7 Qxf7 17. Bxg6 Qg7 18. Qb3+ Kh8 19. Be4 Nd4 20. Qc4 Bh3
+21. Rd3 Rg8 22. Rxh3 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.10"]
+[Round "-"]
+[White "LisFoom"]
+[Black "Jasonboydce"]
+[Result "0-1"]
+[WhiteElo "757"]
+[BlackElo "762"]
+[TimeControl "300+5"]
+[EndTime "12:25:40 PDT"]
+[Termination "Jasonboydce won by resignation"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. f4 Bb4+ 5. Bd2 c5 6. a3 Ba5 7. g3 f6 8. exf6
+Nxf6 9. Bg2 O-O 10. Nf3 h6 11. O-O Ng4 12. h3 Bxd2 13. Nbxd2 Ne3 14. Qb1 Nxf1
+15. Kxf1 Qe7 16. Ne5 Re8 17. Qe4 Nc6 18. Ndf3 Na5 19. Qd5+ Be6 20. Ng6 Qf7 21.
+Qh5 Bxc4 22. Nfe5 Rxe5 23. Kg1 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.10"]
+[Round "-"]
+[White "Rain386"]
+[Black "Jasonboydce"]
+[Result "1-0"]
+[WhiteElo "753"]
+[BlackElo "754"]
+[TimeControl "300+5"]
+[EndTime "12:45:47 PDT"]
+[Termination "Rain386 won by checkmate"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Bc5 4. d3 d6 5. Be3 Bxe3 6. fxe3 Ng4 7. Qf3 Nc6 8.
+Qxf7# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.10"]
+[Round "-"]
+[White "Jasonboydce"]
+[Black "KnutMT"]
+[Result "0-1"]
+[WhiteElo "748"]
+[BlackElo "837"]
+[TimeControl "300+5"]
+[EndTime "12:51:04 PDT"]
+[Termination "KnutMT won by checkmate"]
+
+1. Nf3 e5 2. Nxe5 d5 3. Nc3 d4 4. Ne4 Qe7 5. f4 f6 6. Nxf6+ gxf6 7. Nf3 Bg4 8.
+Nxd4 Nd7 9. d3 O-O-O 10. h3 Bh5 11. b3 Nc5 12. Nb5 Kb8 13. Bb2 a6 14. Nc3 f5 15.
+Nd5 Rxd5 16. Bxh8 Ne4 17. g4 Qh4# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.10"]
+[Round "-"]
+[White "Jasonboydce"]
+[Black "Mider0207"]
+[Result "1-0"]
+[WhiteElo "755"]
+[BlackElo "716"]
+[TimeControl "300+5"]
+[EndTime "13:54:53 PDT"]
+[Termination "Jasonboydce won by resignation"]
+
+1. Nf3 d5 2. e4 e6 3. d3 c5 4. Bg5 f6 5. Bh4 Bd6 6. Bg3 Be7 7. e5 f5 8. h4 Qb6
+9. b3 Nc6 10. Qd2 Nd4 11. Nxd4 cxd4 12. h5 Bb4 13. c3 Bxc3 14. Nxc3 dxc3 15. Qg5
+Qc7 16. d4 Bd7 17. Qxg7 Kd8 18. Qxh8 c2 19. Qxg8+ Be8 20. Qg5+ Kd7 21. Rc1 Qc3+
+22. Qd2 Qxd2+ 23. Kxd2 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.10"]
+[Round "-"]
+[White "zorronigma"]
+[Black "Jasonboydce"]
+[Result "1/2-1/2"]
+[WhiteElo "838"]
+[BlackElo "757"]
+[TimeControl "300+5"]
+[EndTime "16:15:58 PDT"]
+[Termination "Game drawn - insufficient material"]
+
+1. d4 d5 2. Bf4 Bf5 3. c3 Nf6 4. Nf3 e6 5. Nbd2 c5 6. e3 cxd4 7. exd4 Bd6 8. Be5
+O-O 9. Be2 Bxe5 10. Nxe5 Nc6 11. Ndf3 Ne4 12. O-O Qf6 13. Nxc6 bxc6 14. Ne5 Rad8
+15. f3 Nd6 16. Bd3 Nc4 17. Bxc4 dxc4 18. Nxc4 c5 19. g4 Qg6 20. Ne5 Qg5 21. Qc1
+Qxc1 22. Raxc1 Bg6 23. Nxg6 fxg6 24. dxc5 Rd2 25. Rf2 Rfd8 26. Rxd2 Rxd2 27. c6
+Rd8 28. b4 Rc8 29. b5 Kf8 30. a4 Ke7 31. Rd1 h5 32. gxh5 gxh5 33. Kg2 g6 34. h4
+Rd8 35. Rxd8 Kxd8 36. Kg3 Kc7 37. Kf4 a6 38. c4 a5 39. Ke5 Kc8 40. Kd6 g5 41.
+Kxe6 gxh4 42. Ke7 h3 43. b6 h2 44. b7+ Kc7 45. b8=Q+ Kxb8 46. Kd8 h1=Q 47. c7+
+Kb7 48. c8=Q+ Kb6 49. Qb8+ Kc5 50. Qb5+ Kd4 51. Qd5+ Kc3 52. Qxa5+ Kd4 53. Qc7
+Qh4+ 54. Qe7 Qf2 55. a5 Qa2 56. Qd6+ Ke3 57. Qh6+ Ke2 58. Qxh5 Qxc4 59. Qe8+ Kf2
+60. Qe4 Qg8+ 61. Qe8 Qg5+ 62. Qe7 Qxa5+ 63. Qc7 Qxc7+ 64. Kxc7 Kxf3 1/2-1/2
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.10"]
+[Round "-"]
+[White "Jasonboydce"]
+[Black "TammTimm"]
+[Result "0-1"]
+[WhiteElo "752"]
+[BlackElo "893"]
+[TimeControl "300+5"]
+[EndTime "16:29:35 PDT"]
+[Termination "TammTimm won by resignation"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. d3 Bg4 4. e4 dxe4 5. Nxe4 Nxe4 6. dxe4 Qxd1+ 7. Kxd1 Nc6
+8. a3 e5 9. Be3 Nd4 10. Bxd4 O-O-O 11. Bd3 Rxd4 12. Kd2 Bxf3 13. gxf3 Rd7 14. b4
+c5 15. Rhb1 c4 16. Rc1 cxd3 17. cxd3+ Rc7 18. Rxc7+ Kxc7 19. Rc1+ Kb6 20. Rc8 g6
+21. Kc3 Bxb4+ 22. Kxb4 Rxc8 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.10"]
+[Round "-"]
+[White "Jasonboydce"]
+[Black "CoffeeChessCrypto"]
+[Result "1-0"]
+[WhiteElo "759"]
+[BlackElo "710"]
+[TimeControl "300+5"]
+[EndTime "19:45:35 PDT"]
+[Termination "Jasonboydce won by resignation"]
+
+1. Nf3 d5 2. e4 dxe4 3. Ng5 Nf6 4. d3 exd3 5. Bxd3 Bg4 6. f3 Bh5 7. Nc3 g6 8. g4
+Bxg4 9. fxg4 Bh6 10. Be3 O-O 11. Qe2 Qd7 12. Rg1 c6 13. h4 Bg7 14. h5 Nd5 15.
+Nxd5 Qxd5 16. hxg6 fxg6 17. Kd2 Bxb2 18. Rab1 Qa5+ 19. Kd1 Qxa2 20. c3 Bxc3 21.
+Qxa2+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.10"]
+[Round "-"]
+[White "Zok0"]
+[Black "Jasonboydce"]
+[Result "1-0"]
+[WhiteElo "759"]
+[BlackElo "751"]
+[TimeControl "300+5"]
+[EndTime "20:24:15 PDT"]
+[Termination "Zok0 won by resignation"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 d6 6. Nxc6 Bxe3 7. Nxd8 Bxf2+
+8. Kxf2 Kxd8 9. Qf3 f6 10. Nc3 Ne7 11. Bc4 Nc6 12. a3 Nd4 13. Qd3 Nc6 14. Rad1
+Ne5 15. Qd5 Re8 16. h3 Rb8 17. Rhe1 Be6 18. Qd4 Nxc4 19. Qxa7 Rc8 20. Qxb7 g5
+21. Nd5 Bxd5 22. Qxd5 Nxb2 23. Rb1 Na4 24. Qf7 Nc5 25. Qxf6+ Kd7 26. Qf5+ Re6
+27. Rbd1 h6 28. Qxc5 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.11"]
+[Round "-"]
+[White "DanMarbella"]
+[Black "Jasonboydce"]
+[Result "0-1"]
+[WhiteElo "712"]
+[BlackElo "758"]
+[TimeControl "300+5"]
+[EndTime "9:15:05 PDT"]
+[Termination "Jasonboydce won by resignation"]
+
+1. d4 b6 2. e4 Bb7 3. d5 Nf6 4. Bd3 e5 5. Bg5 h6 6. Bxf6 Qxf6 7. Nf3 Bc5 8. O-O
+O-O 9. a3 c6 10. b4 Bd6 11. c4 Be7 12. b5 Bc8 13. bxc6 dxc6 14. dxc6 Nxc6 15.
+Qa4 Bd7 16. Qb3 Bg4 17. Nfd2 Nd4 18. Qb2 Bc5 19. h3 Be2 20. Re1 Bxd3 21. Nb3 Nc2
+22. Nxc5 Nxe1 23. Qd2 Nf3+ 24. gxf3 Qg6+ 25. Kh2 Bf1 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.11"]
+[Round "-"]
+[White "Jasonboydce"]
+[Black "Rafiki50690"]
+[Result "1-0"]
+[WhiteElo "767"]
+[BlackElo "815"]
+[TimeControl "300+5"]
+[EndTime "10:42:12 PDT"]
+[Termination "Jasonboydce won by checkmate"]
+
+1. Nf3 Nc6 2. e4 e5 3. Bc4 Bc5 4. d3 Nf6 5. Ng5 O-O 6. Bxf7+ Rxf7 7. Nxf7 Kxf7
+8. Nc3 Kg8 9. Qe2 d5 10. b3 dxe4 11. Nxe4 Nxe4 12. Qxe4 Nd4 13. Bb2 Nxc2+ 14.
+Kd2 Nxa1 15. Qc4+ Kh8 16. Qxc5 Bg4 17. Qxe5 Nxb3+ 18. Kc2 Qe8 19. Qxg7# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.11"]
+[Round "-"]
+[White "GBR224"]
+[Black "Jasonboydce"]
+[Result "1-0"]
+[WhiteElo "771"]
+[BlackElo "759"]
+[TimeControl "300+5"]
+[EndTime "10:48:32 PDT"]
+[Termination "GBR224 won by resignation"]
+
+1. e4 e5 2. f4 Nc6 3. Nf3 f6 4. Bc4 Bc5 5. d3 Nh6 6. Qe2 Ng4 7. h3 Nf2 8. Rf1 d6
+9. Rxf2 Bxf2+ 10. Qxf2 Qe7 11. Nc3 f5 12. Nd5 Qd7 13. fxe5 Nxe5 14. Nxe5 dxe5
+15. Qg3 g6 16. Nf6+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.11"]
+[Round "-"]
+[White "BigJamou"]
+[Black "Jasonboydce"]
+[Result "0-1"]
+[WhiteElo "779"]
+[BlackElo "768"]
+[TimeControl "300+5"]
+[EndTime "13:08:18 PDT"]
+[Termination "Jasonboydce won on time"]
+
+1. e4 g6 2. Nf3 Bg7 3. Bc4 Nc6 4. Ng5 Ne5 5. Bb3 e6 6. d4 Nc6 7. e5 Nxd4 8. Qxd4
+Ne7 9. Qf4 Nf5 10. g4 Nh6 11. Qf3 Bxe5 12. Ne4 f5 13. gxf5 gxf5 14. Qh5+ Nf7 15.
+Bf4 Bxf4 16. Nbd2 Bxd2+ 17. Nxd2 Qf6 18. c3 b6 19. O-O-O Bb7 20. Rhg1 O-O-O 21.
+Qh3 Qh6 22. Qg3 Rhg8 23. Qd3 Ne5 24. Qb5 Rxg1 25. Rxg1 Nf3 26. Rd1 Rg8 27. Ba4
+Bc6 28. Qc4 Nxd2 29. Rxd2 Rg1+ 30. Kc2 Be4+ 31. Kb3 Bd5 32. Rxd5 exd5 33. Qd4
+Qe6 34. Qh8+ Kb7 35. Qxh7 d4+ 36. c4 Rc1 37. Bb5 d3 38. Qh3 d2 39. Qf3+ c6 40.
+Bxc6+ dxc6 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.11"]
+[Round "-"]
+[White "raphaelfaouakhiri"]
+[Black "Jasonboydce"]
+[Result "1-0"]
+[WhiteElo "712"]
+[BlackElo "759"]
+[TimeControl "300+5"]
+[EndTime "16:26:46 PDT"]
+[Termination "raphaelfaouakhiri won by checkmate"]
+
+1. e4 g6 2. Bc4 Bg7 3. d3 e5 4. Nf3 h6 5. O-O Nf6 6. d4 d6 7. dxe5 dxe5 8. Qxd8+
+Kxd8 9. Nxe5 Ke7 10. Nxf7 Rf8 11. Ne5 a6 12. Re1 b5 13. Bd5 Ra7 14. Nc6+ Nxc6
+15. Bxc6 Rd8 16. e5 Ng4 17. Bf4 Nxe5 18. Bxe5 Bxe5 19. Rxe5+ Kf6 20. Re1 Bf5 21.
+Be4 Bxe4 22. f3 Bxc2 23. Nc3 Rd2 24. Rac1 Bf5 25. Ne4+ Bxe4 26. Rxe4 Ra8 27.
+Rf4+ Ke5 28. Re4+ Kf5 29. g4+ Kf6 30. Rc6+ Kf7 31. Rxc7+ Kf8 32. Rf4+ Kg8 33.
+Rc6 g5 34. Rg6+ Kh7 35. Rff6 Rdd8 36. Rxh6+ Kg7 37. Rhg6+ Kh7 38. Rxg5 Rd1+ 39.
+Kg2 Re8 40. Rh5+ Kg7 41. Rff5 Re2+ 42. Kg3 Rxb2 43. h3 Rxa2 44. Kh4 Rh2 45. Kg5
+Rd6 46. Kh4 b4 47. Rhg5+ Rg6 48. Rxg6+ Kxg6 49. Ra5 b3 50. Rxa6+ Kf7 51. Rb6 b2
+52. Kg3 Rc2 53. h4 Ke7 54. h5 Kd7 55. h6 Kc7 56. Rb3 Rc6 57. h7 Rh6 58. Rxb2
+Rxh7 59. Rc2+ Kd6 60. g5 Rg7 61. Kg4 Ke6 62. f4 Kf7 63. Rc7+ Kg6 64. Rxg7+ Kxg7
+65. Kf5 Kg8 66. Kg6 Kh8 67. f5 Kg8 68. f6 Kh8 69. Kf5 Kh7 70. g6+ Kg8 71. Ke6
+Kh8 72. f7 Kg7 73. Ke7 Kh8 74. f8=Q# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.11"]
+[Round "-"]
+[White "Jasonboydce"]
+[Black "lukebarton815"]
+[Result "1-0"]
+[WhiteElo "766"]
+[BlackElo "721"]
+[TimeControl "300+5"]
+[EndTime "17:55:03 PDT"]
+[Termination "Jasonboydce won - game abandoned"]
+
+1. Nf3 c6 2. e4 d5 3. Nc3 dxe4 4. Ng5 Nf6 5. d3 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.11"]
+[Round "-"]
+[White "Jasonboydce"]
+[Black "Texylvanian"]
+[Result "1-0"]
+[WhiteElo "776"]
+[BlackElo "829"]
+[TimeControl "300+5"]
+[EndTime "18:09:15 PDT"]
+[Termination "Jasonboydce won by resignation"]
+
+1. Nf3 e5 2. e4 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. h3 d5 6. exd5 Nxd5 7. Bg5 Nce7 8.
+Bxe7 Bxe7 9. Nxe5 O-O 10. Qh5 Be6 11. O-O Nf6 12. Qf3 Bxc4 13. dxc4 Qd4 14. Re1
+Qxb2 15. Nd2 Bb4 16. Nd3 Qxc2 17. Nxb4 Qxd2 18. Rab1 c5 19. Nd5 Qxa2 20. Nxf6+
+gxf6 21. Kf1 Qxc4+ 22. Kg1 Qa2 23. Rxb7 Rae8 24. Rxe8 Rxe8 25. Qh5 Qa1+ 26. Kh2
+Qe5+ 27. Qxe5 Rxe5 28. Rxa7 c4 29. Ra8+ Kg7 30. f4 Rc5 31. Kg3 c3 32. Ra1 c2 33.
+Rc1 h5 34. Kf3 Kg6 35. Ke3 f5 36. Kd3 Rd5+ 37. Kxc2 Rc5+ 38. Kd2 Rxc1 39. Kxc1
+h4 40. Kd2 f6 41. Ke2 Kh5 42. Kd3 Kg6 43. Kd4 Kf7 44. Ke3 Ke6 45. Kf3 Kd5 46. g3
+hxg3 47. Kxg3 Ke4 48. h4 Kd3 49. h5 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.11"]
+[Round "-"]
+[White "Jasonboydce"]
+[Black "DerbyCity"]
+[Result "0-1"]
+[WhiteElo "765"]
+[BlackElo "667"]
+[TimeControl "300+5"]
+[EndTime "20:19:30 PDT"]
+[Termination "DerbyCity won by resignation"]
+
+1. Nf3 d6 2. e4 e5 3. Bc4 Qe7 4. d3 Be6 5. O-O Bxc4 6. dxc4 Nd7 7. Bg5 f6 8. Bh4
+g5 9. Bg3 O-O-O 10. Nc3 Nh6 11. Nd5 Qe6 12. Nd2 f5 13. exf5 Nxf5 14. Qf3 Nxg3
+15. Qxg3 Rg8 16. Ne4 h5 17. Nxg5 Qg6 18. Qe3 Qxg5 19. Qxg5 Rxg5 20. a4 c6 21.
+Nc3 Be7 22. Ne4 Rg6 23. b4 Rdg8 24. g3 h4 25. b5 hxg3 26. fxg3 Bh4 27. bxc6 bxc6
+28. Rf3 d5 29. cxd5 cxd5 30. Nc3 e4 31. Rf7 Ne5 32. Rxa7 Bxg3 33. hxg3 Rxg3+ 34.
+Kh1 Rh8+ 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.11"]
+[Round "-"]
+[White "Jasonboydce"]
+[Black "juanka519"]
+[Result "1-0"]
+[WhiteElo "774"]
+[BlackElo "818"]
+[TimeControl "300+5"]
+[EndTime "20:24:21 PDT"]
+[Termination "Jasonboydce won by checkmate"]
+
+1. Nf3 d5 2. e4 dxe4 3. Ng5 Nf6 4. d3 exd3 5. Bxd3 e6 6. O-O h6 7. Nxe6 Bxe6 8.
+Re1 Be7 9. Nc3 Nc6 10. Qf3 O-O 11. Qg3 Ng4 12. Re4 Bf5 13. Rxg4 Bxg4 14. Qxg4
+Ne5 15. Qg3 Bg5 16. Bxg5 hxg5 17. Qxe5 g4 18. Qh5 g6 19. Qxg4 Qf6 20. Nd5 Qg7
+21. Qh3 Rad8 22. Ne7# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.11"]
+[Round "-"]
+[White "Hustler2309"]
+[Black "Jasonboydce"]
+[Result "0-1"]
+[WhiteElo "773"]
+[BlackElo "782"]
+[TimeControl "300+5"]
+[EndTime "20:31:49 PDT"]
+[Termination "Jasonboydce won by resignation"]
+
+1. e4 g5 2. d4 h6 3. e5 d5 4. Qh5 c6 5. Bxg5 Qa5+ 6. c3 Qb6 7. Bc1 e6 8. Nf3 Be7
+9. Bd3 Bd7 10. a4 Na6 11. a5 Qc7 12. Na3 Qxa5 13. O-O O-O-O 14. Bd2 f6 15. Nb5
+Be8 16. Rxa5 Bxh5 17. Nxa7+ Kc7 18. Bxa6 bxa6 19. Rxa6 Kb7 20. Nxc6 Kxa6 21.
+Nxd8 Bxd8 22. Ne1 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.11"]
+[Round "-"]
+[White "kylefazio"]
+[Black "Jasonboydce"]
+[Result "0-1"]
+[WhiteElo "759"]
+[BlackElo "790"]
+[TimeControl "300+5"]
+[EndTime "20:36:30 PDT"]
+[Termination "Jasonboydce won by checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 Bb4+ 4. c3 Ba5 5. Ng5 h6 6. Nxf7 Kxf7 7. Bc4+ Kf8 8.
+Qf3+ Nf6 9. dxe5 Nxe5 10. Qe2 d6 11. Bf4 Bg4 12. f3 Bh5 13. Bxe5 dxe5 14. g4 Bg6
+15. g5 hxg5 16. f4 Bxe4 17. Qe3 Bxh1 18. Qc5+ Qe7 19. Qxa5 exf4+ 20. Kf1 Rxh2
+21. Qxg5 Bg2+ 22. Kg1 Qe1+ 23. Bf1 Qxf1+ 24. Kxh2 Qh1# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.11"]
+[Round "-"]
+[White "orc_mischief"]
+[Black "Jasonboydce"]
+[Result "1-0"]
+[WhiteElo "759"]
+[BlackElo "781"]
+[TimeControl "300+5"]
+[EndTime "20:49:13 PDT"]
+[Termination "orc_mischief won by resignation"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 d6 4. d5 Nb4 5. a3 Na6 6. b4 b6 7. Bd3 Qf6 8. Bg5 Qg6
+9. Qe2 Bg4 10. Bd2 Be7 11. Bxa6 Bxf3 12. Qxf3 Nf6 13. Bb5+ Nd7 14. Bxd7+ Kxd7
+15. Nc3 Rhf8 16. O-O f5 17. Qh3 a6 18. f4 exf4 19. Rxf4 Rae8 20. exf5 Qf6 21.
+Re1 g5 22. Re6 g4 23. Qxg4 Rg8 24. Qxg8 Rxg8 25. Rxf6 Bxf6 26. Ne4 Bd4+ 27. Kf1
+c6 28. c3 Be5 29. Rh4 Rf8 30. Rxh7+ Ke8 31. dxc6 Rxf5+ 32. Ke2 d5 33. Ng3 Bxg3
+34. hxg3 Re5+ 35. Be3 Kd8 36. Kd3 Re6 37. Bxb6+ Kc8 38. Rh8+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.12"]
+[Round "-"]
+[White "FitoOvalle"]
+[Black "Jasonboydce"]
+[Result "0-1"]
+[WhiteElo "871"]
+[BlackElo "791"]
+[TimeControl "300+5"]
+[EndTime "0:25:24 PDT"]
+[Termination "Jasonboydce won - game abandoned"]
+
+1. d4 g6 2. Bf4 Bg7 3. e3 e6 4. Bd3 Ne7 5. Nf3 b6 6. Qd2 Bb7 7. e4 d5 8. e5 c5
+9. dxc5 bxc5 10. h4 c4 11. Be2 Nf5 12. Nc3 d4 13. Bxc4 dxc3 14. Qxd8+ Kxd8 15.
+bxc3 Bxf3 16. gxf3 Nc6 17. Rd1+ Ke7 18. Bg5+ f6 19. exf6+ Bxf6 20. Bxf6+ Kxf6
+21. Rd7 Ne5 22. Rc7 Nxf3+ 23. Ke2 N3xh4 24. Rc6 Rhe8 25. Rh3 h5 26. Rd3 Ng2 27.
+Bb5 Nf4+ 28. Kd2 Nxd3 29. Kxd3 Re7 30. Kd2 Rd8+ 31. Kc1 Nd6 32. Bd3 Red7 33. f4
+Rc8 34. Rxc8 Nxc8 35. Bb5 Rd5 36. Bc6 Rf5 37. Bd7 Nd6 38. c4 Nxc4 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.12"]
+[Round "-"]
+[White "Jasonboydce"]
+[Black "olivermoorhouse"]
+[Result "0-1"]
+[WhiteElo "786"]
+[BlackElo "946"]
+[TimeControl "300+5"]
+[EndTime "7:03:51 PDT"]
+[Termination "olivermoorhouse won by resignation"]
+
+1. Nf3 d5 2. e4 dxe4 3. Ng5 Nf6 4. d3 e6 5. Nc3 exd3 6. Bxd3 Bc5 7. Qf3 O-O 8.
+Qg3 e5 9. Bxh7+ Nxh7 10. Nxh7 Kxh7 11. Ne4 Bb6 12. Be3 Bxe3 13. Qxe3 f6 14. g4
+Bxg4 15. h3 Bh5 16. Ng3 Bg6 17. h4 Kg8 18. h5 Bh7 19. Rg1 Nc6 20. Ne4 Rf7 21. h6
+Nd4 22. O-O-O Bxe4 23. Qxe4 Qe7 24. Rxg7+ Rxg7 25. hxg7 Rd8 26. Qg6 Ne2+ 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.12"]
+[Round "-"]
+[White "raptorSix"]
+[Black "Jasonboydce"]
+[Result "1-0"]
+[WhiteElo "745"]
+[BlackElo "777"]
+[TimeControl "300+5"]
+[EndTime "13:37:22 PDT"]
+[Termination "raptorSix won by resignation"]
+
+1. d4 b5 2. Bf4 Bb7 3. e3 Nf6 4. c3 e6 5. Bxb5 Bxg2 6. Nf3 Bxh1 7. Nbd2 Bxf3 8.
+Qxf3 Bd6 9. Bxd6 cxd6 10. Qxa8 O-O 11. O-O-O Qa5 12. Bc4 d5 13. Bb3 Ng4 14. Qb7
+Nxf2 15. Rg1 Ne4 16. Nxe4 dxe4 17. Qxe4 Qb5 18. h4 Qe2 19. Qe5 f6 20. Qg3 Rf7
+21. d5 g6 22. h5 Qxh5 23. dxe6 Re7 24. Qxb8+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.12"]
+[Round "-"]
+[White "LucasAdamson"]
+[Black "Jasonboydce"]
+[Result "1-0"]
+[WhiteElo "752"]
+[BlackElo "768"]
+[TimeControl "300+5"]
+[EndTime "13:52:08 PDT"]
+[Termination "LucasAdamson won on time"]
+
+1. e4 e5 2. Nf3 Nc6 3. g3 Nf6 4. Nc3 Bc5 5. d3 Ng4 6. Be3 Nxe3 7. fxe3 Bxe3 8.
+Nd5 Bg5 9. h4 Bh6 10. Bh3 O-O 11. Qe2 d6 12. Bxc8 Qxc8 13. Ng5 Nd4 14. Qh5 Nxc2+
+15. Kd2 Nxa1 16. Ne7+ Kh8 17. Nxc8 Raxc8 18. Rxa1 Bxg5+ 19. Qxg5 f6 20. Qf5 c5
+21. g4 b5 22. h5 c4 23. dxc4 Rxc4 24. Rc1 Rd4+ 25. Kc3 b4+ 26. Kb3 a5 27. Ka4
+b3+ 28. Kxb3 Rb8+ 29. Kc2 a4 30. Kb1 Rg8 31. Rc8 Rd1+ 32. Kc2 Rd4 33. Qe6 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.12"]
+[Round "-"]
+[White "Jasonboydce"]
+[Black "altedame1892"]
+[Result "0-1"]
+[WhiteElo "763"]
+[BlackElo "922"]
+[TimeControl "300+5"]
+[EndTime "14:20:35 PDT"]
+[Termination "altedame1892 won by checkmate"]
+
+1. Nf3 c6 2. e4 d5 3. exd5 cxd5 4. Nc3 Nf6 5. d3 d4 6. Nb5 Qa5+ 7. Bd2 Qxb5 8.
+Nxd4 Qe5+ 9. Ne2 Bg4 10. d4 Qd6 11. c3 Nc6 12. Qa4 Bxe2 13. Bxe2 e6 14. g3 Be7
+15. Bf4 Qd5 16. Rf1 O-O 17. Bc4 Qe4+ 18. Be3 a6 19. Ke2 b5 20. Bd3 Qxd3+ 21.
+Kxd3 bxa4 22. f4 Rfd8 23. f5 Ne5+ 24. Ke2 Neg4 25. fxe6 Nxe3 26. exf7+ Kxf7 27.
+Kxe3 Rab8 28. Rab1 Ke6 29. b3 Nd5+ 30. Kd3 axb3 31. axb3 Nf6 32. g4 Nxg4 33.
+Rbe1+ Kd7 34. Rf7 Re8 35. b4 Nxh2 36. Rxg7 Rbc8 37. c4 Nf3 38. Re3 Ng5 39. c5 h5
+40. Rexe7+ Rxe7 41. Rxg5 h4 42. Rh5 Rb8 43. Rxh4 Rxb4 44. Rh6 a5 45. Rd6+ Kc7
+46. d5 a4 47. Rc6+ Kd7 48. Ra6 Re5 49. Ra7+ Kc8 50. Kc3 Rb3+ 51. Kc4 Re4# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.12"]
+[Round "-"]
+[White "Fatherabigail"]
+[Black "Jasonboydce"]
+[Result "1-0"]
+[WhiteElo "735"]
+[BlackElo "754"]
+[TimeControl "300+5"]
+[EndTime "14:47:48 PDT"]
+[Termination "Fatherabigail won by checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Bc4 h6 5. d3 Nf6 6. O-O d6 7. Be3 Bxe3 8. fxe3
+Ng4 9. Qe2 Qf6 10. h3 Be6 11. Bxe6 Qxe6 12. hxg4 Qxg4 13. Rad1 g5 14. d4 h5 15.
+dxe5 Nxe5 16. Nxe5 Qxe2 17. Nxe2 dxe5 18. Rf5 h4 19. Rxg5 h3 20. Rxe5+ Kf8 21.
+gxh3 f6 22. Red5 Kf7 23. Rd7+ Kg6 24. Nf4+ Kg5 25. Kf2 Rae8 26. Rg1+ Kh6 27.
+Rg6# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.12"]
+[Round "-"]
+[White "Jasonboydce"]
+[Black "MaxPower49m"]
+[Result "0-1"]
+[WhiteElo "746"]
+[BlackElo "773"]
+[TimeControl "300+5"]
+[EndTime "15:56:18 PDT"]
+[Termination "MaxPower49m won by resignation"]
+
+1. Nf3 Nc6 2. Nc3 e5 3. e4 f5 4. Bc4 fxe4 5. Nxe4 d5 6. Bb5 dxe4 7. Bxc6+ bxc6
+8. Nxe5 c5 9. Nc6 Qd6 10. Na5 Nf6 11. Nc4 Qa6 12. b3 Bd6 13. Bb2 O-O 14. Bxf6
+Rxf6 15. Qe2 Be6 16. Qxe4 Re8 17. O-O-O Qxa2 18. d3 Bf4+ 19. Ne3 Qa1+ 20. Kd2
+Qa5+ 21. c3 Qa2+ 22. Ke1 Qxb3 23. g3 Qxc3+ 24. Ke2 Bg4+ 25. f3 Rxe4 26. fxg4
+Rxe3+ 27. Kf2 Qc2+ 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.12"]
+[Round "-"]
+[White "Jasonboydce"]
+[Black "Vehvi77"]
+[Result "1-0"]
+[WhiteElo "752"]
+[BlackElo "649"]
+[TimeControl "300+5"]
+[EndTime "16:37:44 PDT"]
+[Termination "Jasonboydce won by checkmate"]
+
+1. Nf3 d5 2. e4 Nf6 3. Nc3 e5 4. exd5 e4 5. Ne5 Bb4 6. Qe2 Bg4 7. f3 Bxc3 8.
+dxc3 Qxd5 9. fxe4 Bxe2 10. exd5 Bxf1 11. Rxf1 Nxd5 12. Rxf7 Nc6 13. Nxc6 Kxf7
+14. Bg5 bxc6 15. O-O-O h6 16. Bh4 Ne3 17. Rd7+ Ke6 18. Rxc7 Rhf8 19. Rxc6+ Kd7
+20. Rg6 Rf1+ 21. Kd2 Nf5 22. Bg3 Nxg3 23. hxg3 Rf2+ 24. Kd3 Rg8 25. b4 Rxg2 26.
+c4 Rf8 27. c5 Rf3+ 28. Ke4 Rfxg3 29. Rd6+ Kc7 30. a4 Re2+ 31. Kd5 Rg5+ 32. Kc4
+Rxc2+ 33. Kb5 a6+ 34. Kxa6 Rc4 35. Kb5 Re4 36. a5 Kb7 37. a6+ Ka7 38. Rd7+ Ka8
+39. Rc7 Re6 40. Ka5 Kb8 41. Rb7+ Ka8 42. Rc7 h5 43. b5 h4 44. c6 Rxb5+ 45. Kxb5
+Re5+ 46. Kb6 h3 47. Rc8# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.12"]
+[Round "-"]
+[White "Jasonboydce"]
+[Black "kirnzy"]
+[Result "1-0"]
+[WhiteElo "760"]
+[BlackElo "738"]
+[TimeControl "300+5"]
+[EndTime "17:51:06 PDT"]
+[Termination "Jasonboydce won by resignation"]
+
+1. Nf3 g6 2. e4 Bg7 3. Bc4 c5 4. Ng5 e6 5. d3 Nc6 6. O-O Nge7 7. Nc3 O-O 8. Be3
+Bd4 9. Qf3 Ne5 10. Qh3 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.12"]
+[Round "-"]
+[White "Esgulepador"]
+[Black "Jasonboydce"]
+[Result "1-0"]
+[WhiteElo "901"]
+[BlackElo "755"]
+[TimeControl "300+5"]
+[EndTime "18:03:58 PDT"]
+[Termination "Esgulepador won on time"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bf4 a6 4. Nf3 Bf5 5. e3 e6 6. Bd3 h6 7. Bxf5 exf5 8. O-O
+g5 9. Bg3 Nc6 10. h3 Qd7 11. Ne5 Nxe5 12. dxe5 Ne4 13. Nxd5 O-O-O 14. c4 Qc6 15.
+b3 Bc5 16. Qf3 Kb8 17. Qxf5 Rhf8 18. Qxe4 f5 19. Qc2 f4 20. exf4 gxf4 21. Bh4
+Rde8 22. b4 Bd4 23. Ne7 Qe6 24. Ng6 Rg8 25. Nxf4 Qxe5 26. Nd3 Rxg2+ 27. Kxg2
+Rg8+ 28. Bg3 Qe4+ 29. Kh2 Bxa1 30. Rxa1 Qf3 31. h4 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.12"]
+[Round "-"]
+[White "tonybernazard"]
+[Black "Jasonboydce"]
+[Result "1-0"]
+[WhiteElo "844"]
+[BlackElo "749"]
+[TimeControl "300+5"]
+[EndTime "20:03:15 PDT"]
+[Termination "tonybernazard won by resignation"]
+
+1. e4 Nf6 2. e5 Ng8 3. d4 e6 4. Nf3 Nc6 5. Nc3 Bb4 6. Bc4 d5 7. exd6 cxd6 8. O-O
+e5 9. dxe5 dxe5 10. Qxd8+ Nxd8 11. Nd5 Ne7 12. Nc7+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.12"]
+[Round "-"]
+[White "Jasonboydce"]
+[Black "Tagabulag7007"]
+[Result "1-0"]
+[WhiteElo "756"]
+[BlackElo "719"]
+[TimeControl "300+5"]
+[EndTime "20:05:57 PDT"]
+[Termination "Jasonboydce won by resignation"]
+
+1. Nf3 c5 2. e4 d6 3. Bc4 a6 4. O-O Nc6 5. Ng5 e6 6. d3 Nf6 7. c3 Be7 8. d4 cxd4
+9. cxd4 h6 10. e5 dxe5 11. dxe5 Qd2 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.12"]
+[Round "-"]
+[White "SamuelAdi"]
+[Black "Jasonboydce"]
+[Result "1-0"]
+[WhiteElo "655"]
+[BlackElo "746"]
+[TimeControl "300+5"]
+[EndTime "20:22:12 PDT"]
+[Termination "SamuelAdi won by resignation"]
+
+1. d4 d5 2. c4 e5 3. e3 c6 4. Nc3 f6 5. cxd5 Bb4 6. a3 Bxc3+ 7. bxc3 Ne7 8. dxc6
+Nbxc6 9. Bb2 O-O 10. Qb3+ Nd5 11. dxe5 Nxe5 12. c4 Qa5+ 13. Kd1 Be6 14. Nf3 Nxf3
+15. gxf3 Rad8 16. Kc2 Rd6 17. cxd5 Bxd5 18. Bc4 Kh8 19. Bxd5 Rxd5 20. Kb1 Rb5
+21. Qc2 Rd8 22. Ka2 Rd2 23. Qc8+ Rd8 24. Qc4 Qd2 25. Qxb5 Qxf2 26. Rad1 Rf8 27.
+Qxb7 Qxe3 28. Qc7 Qe6+ 29. Ka1 Rc8 30. Rd8+ Rxd8 31. Qxd8+ Qg8 32. Qxg8+ Kxg8
+33. Rd1 Kf7 34. Bc3 Ke6 35. Kb2 Kf5 36. Kb3 g5 37. Rd7 h5 38. Rxa7 g4 39. fxg4+
+hxg4 40. Bxf6 Kxf6 41. Kc3 Kf5 42. a4 Kf4 43. a5 Kf3 44. Rh7 Kg2 45. a6 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.13"]
+[Round "-"]
+[White "Jasonboydce"]
+[Black "rustem523"]
+[Result "0-1"]
+[WhiteElo "736"]
+[BlackElo "664"]
+[TimeControl "300+5"]
+[EndTime "13:53:07 PDT"]
+[Termination "rustem523 won by checkmate"]
+
+1. Nf3 d5 2. e4 Nc6 3. Nc3 Bg4 4. h3 Bxf3 5. Qxf3 Nd4 6. Qd3 dxe4 7. Nxe4 e5 8.
+Be2 Nf6 9. O-O Nxe2+ 10. Qxe2 Qd5 11. Nxf6+ gxf6 12. b3 O-O-O 13. c4 Qc5 14. d3
+Rg8 15. a3 Qc6 16. f3 Bc5+ 17. Be3 Bxe3+ 18. Qxe3 Qe6 19. Kf2 h5 20. b4 h4 21.
+a4 f5 22. Rad1 Qg6 23. Rg1 Qg3+ 24. Ke2 f4 25. Qxe5 Rge8 26. Qxe8 Rxe8+ 27. Kd2
+Qf2+ 28. Kc3 Re2 29. Rdf1 Rc2+ 30. Kb3 Qd2 31. a5 Qc3+ 32. Ka4 Ra2+ 33. Kb5 Qxd3
+34. Rd1 Qf5+ 35. c5 a6+ 36. Kc4 Qc2+ 37. Kd4 Qf2+ 38. Ke4 Qg3 39. Rge1 Qg6+ 40.
+Kxf4 Qf6+ 41. Ke4 Rxg2 42. f4 Qe7+ 43. Kf3 Rg3+ 44. Kf2 Qf8 45. f5 Rxh3 46. Kg2
+Rg3+ 47. Kh2 Qg8 48. Kh1 Rh3# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.13"]
+[Round "-"]
+[White "bocoul"]
+[Black "Jasonboydce"]
+[Result "0-1"]
+[WhiteElo "750"]
+[BlackElo "745"]
+[TimeControl "300+5"]
+[EndTime "15:22:48 PDT"]
+[Termination "Jasonboydce won on time"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d4 Bxd4 5. c3 Bxf2+ 6. Kxf2 h6 7. Rf1 Nf6 8.
+Re1 d6 9. Kg1 Bg4 10. Qd3 a6 11. Nbd2 Nh5 12. Bd5 Nf4 13. Qf1 Qf6 14. h3 Nxh3+
+15. gxh3 Bh5 16. Qg2 O-O 17. Nf1 Bxf3 18. Qg3 Ne7 19. Bxb7 Rae8 20. Nh2 Bh5 21.
+Rf1 Qe6 22. Bd5 Qd7 23. Bxh6 Ng6 24. Bd2 Qb5 25. Qg5 Be2 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.13"]
+[Round "-"]
+[White "schmulmuel"]
+[Black "Jasonboydce"]
+[Result "1-0"]
+[WhiteElo "591"]
+[BlackElo "733"]
+[TimeControl "300+5"]
+[EndTime "18:19:09 PDT"]
+[Termination "schmulmuel won by resignation"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 h6 4. Nc3 b6 5. d4 Bd6 6. d5 Nd4 7. Nxd4 exd4 8. Qxd4
+f6 9. O-O Be5 10. Qd3 Bb7 11. f4 Bd6 12. a3 Ne7 13. Qg3 Rg8 14. b4 g5 15. e5
+Bc5+ 16. bxc5 Bxd5 17. Nxd5 Nxd5 18. Bxd5 c6 19. Bxg8 Qe7 20. Qc3 f5 21. cxb6
+axb6 22. Be3 c5 23. Rad1 O-O-O 24. a4 Rxg8 25. a5 d5 26. exd6 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.13"]
+[Round "-"]
+[White "Jasonboydce"]
+[Black "warrentots"]
+[Result "1-0"]
+[WhiteElo "742"]
+[BlackElo "777"]
+[TimeControl "300+5"]
+[EndTime "18:55:33 PDT"]
+[Termination "Jasonboydce won by resignation"]
+
+1. Nf3 e5 2. Nxe5 Bb4 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.13"]
+[Round "-"]
+[White "madtownmaniacs"]
+[Black "Jasonboydce"]
+[Result "1-0"]
+[WhiteElo "729"]
+[BlackElo "734"]
+[TimeControl "300+5"]
+[EndTime "19:08:11 PDT"]
+[Termination "madtownmaniacs won by resignation"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nxe5 Qf6 6. Ng4 Bxg4 7. Qxg4 h5 8.
+Qf5 Qxf5 9. exf5 O-O-O 10. O-O g6 11. fxg6 fxg6 12. d3 Nf6 13. Bg5 Rd6 14. Nc3
+Bg7 15. Rfe1 b6 16. Re7 Bf8 17. Rf7 Ng4 18. Ne4 Re6 19. f3 Ne5 20. Rf6 Rd6 21.
+Rxd6 cxd6 22. Bf6 Rg8 23. Bxe5 dxe5 24. Re1 Bb4 25. Re2 Re8 26. Nf6 Re6 27. Re4
+c5 28. Nd5 Kd7 29. a3 Kd6 30. Nxb4 cxb4 31. axb4 g5 32. d4 exd4 33. Rxd4+ Kc6
+34. Re4 Rd6 35. Re5 Rd1+ 36. Kf2 Rd2+ 37. Kg3 Rxc2 38. Rxg5 Rxb2 39. Rxh5 Rxb4
+40. Rh6+ Kc5 41. Rh5+ Kc6 42. f4 a5 43. f5 Rb5 44. Rh6+ Kb7 45. f6 Rg5+ 46. Kf4
+Rg8 47. f7 Rf8 48. Rh7 Kc7 49. Ke5 Kd7 50. Kf6 a4 51. Kg7 Ke7 52. Rh4 a3 53.
+Re4+ Kd6 54. Kxf8 a2 55. Re1 b5 56. Rd1+ Ke6 57. Kg8 b4 58. f8=Q b3 59. Qb4 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.13"]
+[Round "-"]
+[White "invincible0909"]
+[Black "Jasonboydce"]
+[Result "1-0"]
+[WhiteElo "669"]
+[BlackElo "724"]
+[TimeControl "300+5"]
+[EndTime "19:11:28 PDT"]
+[Termination "invincible0909 won by resignation"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 h6 4. d3 Bc5 5. c3 Nf6 6. b4 Nxb4 7. Nxe5 d6 8. Nxf7
+Qd7 9. Nxh8 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.13"]
+[Round "-"]
+[White "Jasonboydce"]
+[Black "jbdebaun"]
+[Result "1-0"]
+[WhiteElo "733"]
+[BlackElo "740"]
+[TimeControl "300+5"]
+[EndTime "20:21:11 PDT"]
+[Termination "Jasonboydce won by resignation"]
+
+1. Nf3 f5 2. d4 Nf6 3. Bf4 d6 4. e3 Nc6 5. Bb5 Bd7 6. Ng5 h6 7. Nf3 a6 8. Ba4 e6
+9. Nc3 b5 10. Bb3 d5 11. Ne5 Nxe5 12. Bxe5 Be7 13. Bxf6 Bxf6 14. Qh5+ Kf8 15.
+O-O Be8 16. Qf3 c6 17. Rfe1 Bg6 18. Rad1 Qe8 19. Ne2 Bh5 20. Qf4 Qb8 21. a4 Qxf4
+22. exf4 Bf7 23. c3 Ke7 24. Bc2 Bg6 25. Ng3 Kf7 26. Bd3 Rab8 27. b3 Rhe8 28.
+axb5 axb5 29. c4 Bxd4 30. cxd5 cxd5 31. Bxb5 Bxf2+ 32. Kxf2 Rxb5 33. Rb1 h5 34.
+Ne2 h4 35. Nd4 Rb7 36. b4 Rd8 37. b5 Rb6 38. Rec1 Kf8 39. Rc6 Rdb8 40. Nxe6+ Kg8
+41. Rxb6 Rxb6 42. Nd4 Be8 43. Re1 Bxb5 44. Nxf5 Rf6 45. Ne7+ Kh7 46. Kf3 d4 47.
+Rd1 Re6 48. Nf5 Bc6+ 49. Kg4 Rg6+ 50. Kxh4 Rxg2 51. Nxd4 Ba8 52. h3 Rf2 53. Kg4
+Rg2+ 54. Kh4 Rf2 55. Ne6 Rf3 56. Rd7 Kg8 57. Rxg7+ Kh8 58. Kg4 Rb3 59. h4 Bf3+
+60. Kg5 Rb5+ 61. Kf6 Bg4 62. Nd4 Rb6+ 63. Kg5 Bc8 64. Rc7 Ba6 65. Nf5 Kg8 66.
+Nh6+ Kf8 67. Rf7+ Ke8 68. Ra7 Rb5+ 69. Kf6 Rb6+ 70. Kg5 Rb5+ 71. f5 Rb6 72. h5
+Bd3 73. f6 Kf8 74. Rf7+ Ke8 75. Re7+ Kf8 76. Re3 Rb5+ 77. Kh4 Rb4+ 78. Kg3 Ba6
+79. Ra3 Be2 80. Ra8+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.14"]
+[Round "-"]
+[White "Jasonboydce"]
+[Black "petermlej"]
+[Result "0-1"]
+[WhiteElo "727"]
+[BlackElo "820"]
+[TimeControl "300+5"]
+[EndTime "11:07:13 PDT"]
+[Termination "petermlej won by resignation"]
+
+1. Nf3 Nc6 2. e4 e5 3. Bc4 h6 4. d3 Bc5 5. Qe2 d6 6. Be3 Bb6 7. Nc3 Nd4 8. Nxd4
+exd4 9. Bxd4 Bxd4 10. Nd5 Bxb2 11. Rb1 Be5 12. O-O c6 13. Ne3 Nf6 14. f4 Bd4 15.
+Kh1 Bxe3 16. Qxe3 O-O 17. e5 Ng4 18. Qg3 d5 19. Bb3 a5 20. Rbd1 a4 21. Bxd5 cxd5
+22. c4 d4 23. f5 Ne3 24. f6 g6 25. Qh4 h5 26. Qf4 Kh7 27. Rf3 Nxd1 28. Rg3 Bf5
+29. Rf3 Qd7 30. h3 Ne3 31. Kg1 Ra5 32. g4 Nxg4 33. hxg4 Bxg4 34. Rg3 Qf5 35.
+Qxd4 Rxe5 36. Re3 Rxe3 37. Qxe3 Qxf6 38. Qc5 Kg7 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.14"]
+[Round "-"]
+[White "Obamasker_ohe_ohe"]
+[Black "Jasonboydce"]
+[Result "0-1"]
+[WhiteElo "696"]
+[BlackElo "734"]
+[TimeControl "300+5"]
+[EndTime "11:25:32 PDT"]
+[Termination "Jasonboydce won by resignation"]
+
+1. d4 g6 2. Nc3 Bg7 3. Nf3 Nf6 4. h3 O-O 5. Bg5 e6 6. e3 h6 7. Bh4 g5 8. Bg3 d5
+9. Bd3 Ne4 10. Be2 Nxg3 11. fxg3 Re8 12. Qd3 Nd7 13. O-O Nf6 14. Ne5 Rf8 15. Nd1
+Ne4 16. g4 f5 17. Nf2 Ng3 18. Rfe1 Bxe5 19. c3 Nxe2+ 20. Rxe2 Bd6 21. b4 c6 22.
+Rf1 Qc7 23. Nh1 Bh2+ 24. Kf2 Kf7 25. Ke1 Ke7 26. gxf5 exf5 27. g3 Bxg3+ 28. Nxg3
+Qxg3+ 29. Ref2 Be6 30. Kd2 Rae8 31. Rf3 Qg2+ 32. R1f2 Qg1 33. Qe2 Qa1 34. Kd3
+Qb1+ 35. Kd2 Qxa2+ 36. Kd3 Qb1+ 37. Kd2 Qb2+ 38. Kd3 Qb1+ 39. Kd2 Kd7 40. Rf1
+Qa2+ 41. Kd3 Qc4+ 42. Kd2 Qa2+ 43. Kd3 Qb3 44. R3f2 f4 45. exf4 Bf5+ 46. Kd2
+Rxe2+ 47. Kxe2 Re8+ 48. Kf3 Qxc3+ 49. Kg2 Qxd4 50. fxg5 Be4+ 51. Kg1 hxg5 52.
+Kh2 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.14"]
+[Round "-"]
+[White "Jasonboydce"]
+[Black "TonyLanderos"]
+[Result "1-0"]
+[WhiteElo "743"]
+[BlackElo "791"]
+[TimeControl "300+5"]
+[EndTime "15:24:11 PDT"]
+[Termination "Jasonboydce won - game abandoned"]
+
+1. Nf3 Nf6 2. d4 Nc6 3. Bf4 d6 4. e3 a6 5. Bc4 e5 6. Nc3 exf4 7. Bxf7+ Kxf7 8.
+Ng5+ Ke8 9. e4 Ng4 10. Nf3 Qf6 11. h3 Nh6 12. Nd5 Qg6 13. Nxc7+ Kd7 14. Nxa8
+Qxe4+ 15. Qe2 Qxe2+ 16. Kxe2 Kd8 17. c3 b5 18. Rae1 Bb7 19. Nb6 Na5 20. Nd5 Nc4
+21. b3 Nb2 22. Nxf4 d5 23. Ne6+ Ke7 24. Kd2 Kd6 25. Kc2 Be7 26. Kxb2 Bc8 27.
+Nxg7 Rg8 28. Nh5 Rxg2 29. Rhg1 Rxf2+ 30. Ka3 Kc6+ 31. b4 a5 32. Rxe7 Nf5 33.
+Ne5+ Kb6 34. Rxh7 Ne3 35. Rg6+ 1-0

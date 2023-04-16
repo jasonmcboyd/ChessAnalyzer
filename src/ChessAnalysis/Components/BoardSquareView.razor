@@ -1,0 +1,112 @@
+﻿@using ChessAnalysis.Models
+
+<style>
+  .board-square {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+
+      .board-square.selected {
+          border: 3px solid red;
+      }
+
+  .board-square-address {
+      position: absolute;
+      font-size: 0.6rem;
+      font-weight: bold;
+  }
+
+      .board-square-address.rank-top {
+          top: 0;
+          left: 0.5rem;
+      }
+
+      .board-square-address.rank-bottom {
+          bottom: 0;
+          right: 0.5rem;
+          transform: rotate(180deg);
+      }
+
+      .board-square-address.file-top {
+          top: 0.5rem;
+          left: 0;
+          transform: rotate(-90deg);
+      }
+
+      .board-square-address.file-bottom {
+          bottom: 0.5rem;
+          right: 0;
+          transform: rotate(90deg);
+      }
+</style>
+
+<div class="board-square @(IsSelected ? "selected" : "")"
+     style="background-color: @(Square.SquareColor == ChessColor.Black ? "#b58863" : "#f0d9b5")"
+     @onpointerdown="@OnPointerDown">
+  @switch (Square.CurrentPiece?.PieceType)
+  {
+    case ChessPieceType.Pawn:
+      <Pawn Color="@Square.CurrentPiece.Color"></Pawn>
+      break;
+    case ChessPieceType.Knight:
+      <Knight Color="@Square.CurrentPiece.Color"></Knight>
+      break;
+    case ChessPieceType.Bishop:
+      <Bishop Color="@Square.CurrentPiece.Color"></Bishop>
+      break;
+    case ChessPieceType.Rook:
+      <Rook Color="@Square.CurrentPiece.Color"></Rook>
+      break;
+    case ChessPieceType.Queen:
+      <Queen Color="@Square.CurrentPiece.Color"></Queen>
+      break;
+    case ChessPieceType.King:
+      <King Color="@Square.CurrentPiece.Color"></King>
+      break;
+  }
+
+  @if (ShowAddress)
+  {
+    <div class="board-square-address rank-top">@Square.Address.Rank</div>
+    <div class="board-square-address rank-bottom">@Square.Address.Rank</div>
+    <div class="board-square-address file-top">@Square.Address.File</div>
+    <div class="board-square-address file-bottom">@Square.Address.File</div>
+  }
+</div>
+
+@code {
+  [Parameter]
+  public BoardSquare Square { get; set; } = default!;
+
+  [Parameter]
+  public bool ShowAddress { get; set; }
+
+  private bool _IsSelected;
+  public bool IsSelected
+  {
+    get => _IsSelected;
+    set
+    {
+      if (value == _IsSelected)
+        return;
+
+      _IsSelected = value;
+
+      IsSelectedChanged.InvokeAsync(_IsSelected);
+    }
+  }
+
+  [Parameter]
+  public EventCallback<bool> IsSelectedChanged { get; set; }
+
+  private void OnPointerDown(PointerEventArgs eventArgs)
+  {
+    if (eventArgs.Button != 0)
+      return;
+
+    IsSelected = true;
+  }
+}

@@ -1,0 +1,66 @@
+﻿@using ChessAnalysis.Models
+
+<style>
+  .chess-board {
+      display: grid;
+      grid-template-columns: repeat(8, 1fr);
+      grid-template-rows: repeat(8, 1fr);
+      border: 1px solid black;
+  }
+</style>
+
+<div class="chess-board">
+  @for (int rank = 7; rank >= 0; rank--)
+  {
+    @for (int file = 0; file < 8; file++)
+    {
+      BoardSquare boardSquare = ChessBoard[rank, file];
+
+      <BoardSquareView @ref="_BoardSquareViews[boardSquare.Address]"
+                   Square="@boardSquare"
+                   IsSelectedChanged="@(isSelected => OnSquareSelected(isSelected, boardSquare))" />
+    }
+  }
+</div>
+
+@code {
+  protected override void OnInitialized()
+  {
+    base.OnInitialized();
+
+    _BoardSquareViews.Clear();
+  }
+
+  [Parameter]
+  public ChessBoard ChessBoard { get; set; } = default!;
+
+  private Dictionary<BoardAddress, BoardSquareView> _BoardSquareViews = new Dictionary<BoardAddress, BoardSquareView>();
+
+  private BoardSquare? _SelectedBoardSquare;
+  public BoardSquare? SelectedBoardSquare
+  {
+    get => _SelectedBoardSquare;
+    set
+    {
+      if (value == _SelectedBoardSquare)
+        return;
+
+      var oldValue = _SelectedBoardSquare;
+      _SelectedBoardSquare = value;
+
+      if (oldValue != null)
+        _BoardSquareViews[oldValue.Address].IsSelected = false;
+
+      if (_SelectedBoardSquare != null)
+        _BoardSquareViews[_SelectedBoardSquare.Address].IsSelected = true;
+    }
+  }
+
+  private void OnSquareSelected(bool isSelected, BoardSquare square)
+  {
+    if (isSelected)
+      SelectedBoardSquare = square;
+    else if (!isSelected && square == SelectedBoardSquare)
+      SelectedBoardSquare = null;
+  }
+}

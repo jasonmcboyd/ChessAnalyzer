@@ -1,0 +1,123 @@
+﻿@using ChessAnalysis.Components
+@using ChessAnalysis.Models
+@using ChessAnalysis.Utilities
+@using Microsoft.AspNetCore.Components.Forms
+@using Microsoft.AspNetCore.Components.Web;
+
+@page "/"
+
+<style>
+  .container {
+      display: grid;
+      grid-template-columns: 1fr;
+      grid-template-rows: min-content auto;
+      gap: 1rem;
+      height: 100vh;
+  }
+
+  .header {
+      display: grid;
+      grid-template-columns: auto 1fr auto;
+      gap: 1rem;
+      background-color: #D1D1D1;
+      padding: 1rem;
+      align-items: center;
+  }
+
+  .header-title {
+      font-size: 1.5rem;
+      margin: 0;
+  }
+
+  .header-right {
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+      gap: 1rem;
+  }
+
+  .header-right-item:last-of-type {
+      margin-left: auto;
+  }
+
+  .content {
+      display: grid;
+      grid-template-columns: auto min-content;
+      gap: 1rem;
+      height: 100%;
+  }
+
+  .content-left {
+      background-color: #E5E5E5;
+  }
+
+  .content-right {
+      background-color: #F0F0F0;
+      height: 100%;
+      min-width: 250px;
+  }
+
+  .chess-board {
+      min-width: 500px;
+      min-height: 500px;
+  }
+
+</style>
+
+<div class="container">
+  <div class="header">
+    <h2 class="header-title">Chess Analysis</h2>
+    <div class="header-right">
+      <div class="header-right-item">
+        Choose a starting color:
+        <select>
+          <option>Black</option>
+          <option>White</option>
+        </select>
+      </div>
+      <button class="header-right-item" @onclick="OnResetClicked">Reset</button>
+    </div>
+  </div>
+  <div class="content">
+    <div class="content-left">
+      <ChessBoardView ChessBoard="@ChessBoard" />
+    </div>
+    <div class="content-right">
+      <InputFile OnChange="@OnInputFileChange" />
+      @if (GameRecords != null)
+      {
+        @foreach (var game in GameRecords)
+        {
+          @game
+          ;
+        }
+      }
+    </div>
+  </div>
+</div>
+
+@code {
+
+  [Parameter]
+  public ChessBoard ChessBoard { get; set; } = new ChessBoard();
+
+  private void OnResetClicked(MouseEventArgs eventArgs)
+  {
+    ChessBoardSetter.Standard(ChessBoard);
+  }
+
+  private ChessGameRecord[]? GameRecords { get; set; }
+
+  private async Task OnInputFileChange(InputFileChangeEventArgs eventArgs)
+  {
+    using (var ms = new MemoryStream())
+    using (var stream = eventArgs.File.OpenReadStream())
+    using (var reader = new StreamReader(ms))
+    {
+      await stream.CopyToAsync(ms);
+      ms.Position = 0;
+
+      GameRecords = PgnFileParser.ParsePgnFile(reader).ToArray();
+    }
+  }
+}
